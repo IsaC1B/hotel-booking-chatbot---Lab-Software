@@ -3,6 +3,6 @@ La gestión de reservas hoteleras requiere coordinar diferentes elementos como h
 
 Este proyecto propone el desarrollo de un sistema de información que permita digitalizar y centralizar estos procesos, reduciendo errores asociados a la gestión manual y facilitando tanto la experiencia del huésped como la administración del hotel.
 
-El sistema permitirá que un huésped pueda consultar la disponibilidad de habitaciones, seleccionar una opción de alojamiento, agregar servicios de alimentación y realizar una reserva.
+El sistema permitirá que un huésped pueda consultar la disponibilidad de habitaciones, seleccionar una opción de alojamiento, agregar servicios de alimentación y realizar una reserva. Adicionalmente se implementará un chatbot para facilitar la comunicación con los huéspedes y aclarar dudas sobre el hotel. 
 
 Por otra parte, el personal autorizado podrá administrar habitaciones, reservas, huéspedes y servicios de alimentación.
