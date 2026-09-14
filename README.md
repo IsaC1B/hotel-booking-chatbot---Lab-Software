@@ -1,8 +1,32 @@
 # hotel-booking-system ---Lab-Software
-La gestión de reservas hoteleras requiere coordinar diferentes elementos como habitaciones, huéspedes, fechas de alojamiento, alimentación y pagos.
+Sistema web desarrollado para la asignatura Laboratorio de Software, orientado a la gestión integrada de reservas de alojamiento y alimentación en un hotel, incorporando un chatbot para la atención inicial y orientación de los huéspedes
 
-Este proyecto propone el desarrollo de un sistema de información que permita digitalizar y centralizar estos procesos, reduciendo errores asociados a la gestión manual y facilitando tanto la experiencia del huésped como la administración del hotel.
+## Descripción del proyecto
+La gestión de reservas hoteleras puede presentar dificultades cuando las consultas de los huéspedes se atienden mediante canales tradicionales, como llamadas telefónicas, correos electrónicos y redes sociales. La dependencia de procesos manuales puede generar demoras en la atención, saturación del personal, errores en la información y dificultades para gestionar de manera centralizada los servicios de alojamiento y alimentación.
 
-El sistema permitirá que un huésped pueda consultar la disponibilidad de habitaciones, seleccionar una opción de alojamiento, agregar servicios de alimentación y realizar una reserva. Adicionalmente se implementará un chatbot para facilitar la comunicación con los huéspedes y aclarar dudas sobre el hotel. 
+Como respuesta a esta problemática, se propone el desarrollo de un sistema web que permita a los huéspedes consultar habitaciones, seleccionar servicios de alimentación y realizar reservas desde una misma plataforma.
 
-Por otra parte, el personal autorizado podrá administrar habitaciones, reservas, huéspedes y servicios de alimentación.
+El sistema contará con un chatbot integrado, cuya función será atender consultas frecuentes, proporcionar información sobre los servicios del hotel y orientar a los huéspedes durante el proceso de reserva.
+
+El proyecto se desarrollará con fines académicos para la asignatura Laboratorio de Software, aplicando principios de ingeniería de software en las etapas de análisis, diseño, desarrollo, pruebas y documentación.
+
+## Objetivo general 
+Desarrollar un sistema web de reservas hoteleras con chatbot integrado que facilite la gestión de alojamiento y alimentación, mejore la atención inicial de los huéspedes y centralice la información relacionada con las reservas.
+
+##Objetivos específicos
+- Analizar los procesos actuales de atención y gestión de reservas hoteleras.
+- Identificar los requisitos funcionales y no funcionales del sistema.
+- Diseñar una solución de software para centralizar la información de alojamiento, alimentación y reservas.
+- Implementar un módulo de gestión de habitaciones y disponibilidad.
+- Permitir a los huéspedes realizar reservas de alojamiento.
+- Integrar la selección de servicios de alimentación en el proceso de reserva.
+- Desarrollar un chatbot para responder consultas frecuentes y orientar a los huéspedes.
+- Implementar mecanismos de autenticación y control de acceso.
+- Realizar pruebas para evaluar el funcionamiento y la calidad del sistema.
+
+
+
+
+
+
+
