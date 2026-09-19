@@ -8,7 +8,7 @@ El proyecto no contempla el desarrollo de una página web completa de reservas. 
 
 De esta manera, el proyecto se enfoca en estudiar y desarrollar la interacción conversacional, la identificación de intenciones, la extracción de datos relevantes y la generación de respuestas útiles para mejorar la atención al cliente.
 
-##Planteamiento del problema 
+## Planteamiento del problema 
 En muchos establecimientos hoteleros, la atención de los huéspedes se realiza mediante llamadas telefónicas, mensajes en redes sociales, correos electrónicos o aplicaciones de mensajería. Esta situación puede generar tiempos de respuesta elevados, saturación del personal, repetición de preguntas frecuentes, información fragmentada y dificultades para atender varias solicitudes simultáneamente.
 
 Además, los usuarios suelen necesitar información sobre:
@@ -36,7 +36,7 @@ Por lo tanto, se propone desarrollar un chatbot especializado que permita automa
 ## Objetivo general 
 Desarrollar un chatbot conversacional especializado en servicios hoteleros que permita atender consultas frecuentes, identificar las necesidades de los usuarios y gestionar inicialmente solicitudes relacionadas con alojamiento y alimentación.
 
-##Objetivos específicos
+## Objetivos específicos
 1. Analizar las necesidades de atención y las consultas frecuentes que realizan los huéspedes en un establecimiento hotelero.
 
 2. Identificar las principales intenciones conversacionales relacionadas con alojamiento, alimentación, disponibilidad, tarifas y reservas.
